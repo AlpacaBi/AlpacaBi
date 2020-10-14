@@ -1,4 +1,4 @@
-<h2>👋Hi, I'm Alpaca Bi</h2>
+<h2>Hi👋, I'm Alpaca Bi</h2>
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true"/>
 
