@@ -1,22 +1,16 @@
-<h2>Hi👋, I'm Alpaca Bi</h2>
+<h1>Hi👋, I'm Alpaca Bi</h1>
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true"/>
 
 <!-- <img src="https://github-stat.alpaca.run/api/top-langs/?username=alpacabi&layout=compact&card_width=445"/> -->
 
 ### 💼**Web Full Stack Developer**  
-**🐸Stay Simple, 🤓Stay Naive**
-
-
-<br/>
-
+**🐸Stay Simple, 🤓Stay Naive**  
 👇 Hit in your terminal to connect with me.
 
 ```bash
 npx alpaca-bi
 ```
-
-<br/>
 
 <details>
  <summary><b>More...</b></summary>  
