@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true"/>
 
-<!-- <img src="https://github-stat.alpaca.run/api/top-langs/?username=alpacabi&layout=compact&card_width=445"/> -->
+
 
 ### 💼**Web Full Stack Developer**  
 
-**🐸Stay Simple, 🤓Stay Naive**  
+<br/>  
 👇 Hit in your terminal to connect with me.
 
 ```bash
@@ -59,8 +59,6 @@ Others
 ![Deepin](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-
 
 
 </details>
