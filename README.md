@@ -16,8 +16,11 @@
 npx alpaca-bi
 ```
 
-<br/><br/>
+<br/>
 
+<details>
+ <summary><b>More...</b></summary>  
+    
 ## 😎 A little more about me...  
 
 ```go
@@ -62,6 +65,10 @@ Others
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+
+
+
+</details>
 
 
 
