@@ -13,7 +13,7 @@
 👇 Hit in your terminal to connect with me.
 
 ```bash
-npx AlpacaBi
+npx alpaca-bi
 ```
 
 <br/><br/>
