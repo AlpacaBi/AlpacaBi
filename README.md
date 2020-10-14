@@ -1,10 +1,10 @@
-<h2>Hi👋, I'm Alpaca Bi</h2>
+<h2>👋Hi, I'm Alpaca Bi</h2>
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true"/>
 
 <!-- <img src="https://github-stat.alpaca.run/api/top-langs/?username=alpacabi&layout=compact&card_width=445"/> -->
 
-### **Web Full Stack Developer**  
+### 💼**Web Full Stack Developer**  
 **🐸Stay Simple, 🤓Stay Naive**
 
 
@@ -18,7 +18,7 @@ npx AlpacaBi
 
 <br/><br/>
 
-## <img src="https://cdn.alpaca.run/avatar.jpeg" width="25"> A little more about me...  
+## 😎 A little more about me...  
 
 ```go
 AlpacaBi := &Info {
