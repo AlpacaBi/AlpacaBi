@@ -5,7 +5,6 @@
 
 
 ### 💼**Web Full Stack Developer**  
-
 👇 Hit in your terminal to connect with me.
 ```bash
 npx alpaca-bi
