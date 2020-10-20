@@ -6,11 +6,13 @@
 
 ### 💼**Web Full Stack Developer**  
 
-<br/>  
 👇 Hit in your terminal to connect with me.
-
 ```bash
 npx alpaca-bi
+```
+If you use deno, you also can 👇
+```bash
+deno run https://cdn.alpaca.run/AlpacaBi.js
 ```
 
 <details>
