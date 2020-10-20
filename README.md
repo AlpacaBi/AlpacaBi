@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm Alpaca Bi</h1>
 
-<img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true"/>
+<img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true&line_height=30"/>
 
 
 
@@ -9,7 +9,7 @@
 ```bash
 npx alpaca-bi
 ```
-If you use deno, you also can 👇
+👇 If you use deno, you also can 
 ```bash
 deno run https://cdn.alpaca.run/AlpacaBi.js
 ```
