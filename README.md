@@ -9,7 +9,7 @@
 ```bash
 npx alpaca-bi
 ```
-👇 If you use [**Deno**](https://www.runoob.com)🦕, you also can 
+👇 If you use [**Deno**](https://deno.land)🦕, you also can 
 ```bash
 deno run https://cdn.alpaca.run/AlpacaBi.js
 ```
