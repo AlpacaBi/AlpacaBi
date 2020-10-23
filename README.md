@@ -32,6 +32,7 @@ AlpacaBi := &Info {
 ```
 
 ## ⚡ Technologies
+<img align="right" width="270" src="https://cdn.alpaca.run/alpaca.gif">
 
 Lanuage  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
