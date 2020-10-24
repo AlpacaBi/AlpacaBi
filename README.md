@@ -25,7 +25,7 @@ AlpacaBi := &Info {
     Name: "Alpaca Bi",
     Age: 25,
     Occupation: "Web Full Stack Developer",
-    Clergy: "Flying Spaghetti Monsterism Minister"
+    Clergy: "Flying Spaghetti Monsterism Minister",
     Email: "biguokang@outlook.com",
     Wechat: "workbiguokang",
     Website: "https://alpaca.run",
