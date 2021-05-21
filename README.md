@@ -5,7 +5,7 @@
 
 
 ### 👷 **Full Stack Web Developer**  
-### 🤵 [**Flying Spaghetti Monsterism**](https://www.spaghettimonster.org) Minister
+### 🤵 [**Flying Spaghetti Monsterism**](https://app.spaghettimonster.org/reg/51174/3334898) Minister
 👇 Hit in your terminal to connect with me.
 ```bash
 npx alpaca-bi
